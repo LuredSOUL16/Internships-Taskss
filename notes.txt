@@ -1,0 +1,6 @@
+Hey i am sorry for evrything. I know this will never reach you but i still want to say that i am sorry even if my sorry doesn't mean anything to you. i know there is no way that you are givng me another cahnce and i really wish there could be a way for me to let go and never bother you ever again but ............................ I know my messeges are only disuturbing you and nothing else but i don't know how else to reach out to you
+Hey i am sorry for evrything. I know this will never reach you but i still want to say that i am sorry even if my sorry doesn't mean anything to you. i know there is no way that you are givng me another cahnce and i really wish there could be a way for me to let go and never bother you ever again but ............................ I know my messeges are only disuturbing you and nothing else but i don't know how else to reach out to you
+So now the text is just going to append itself like a passage ????
+Wowwww!!!!!!!! i was just trying to check how well does the code work but it really made me the thing which i needed the most
+Now i will try to change its name to somthing which is more meaningful to write!!!!!!!!
+cd "c:\Users\Hp\Desktop\Internships Tasks!!!!\" ; if ($?) { javac Notes.java } ; if ($?) { java Notes }
